@@ -52,7 +52,7 @@ You should perform the exercises in the order below:
 * `reject` - Completed
 * `reduce` - Completed
 * `any?` - Completed
-* `all?`
+* `all?` - Completed
 * `none?`
 * `one?`
 * `group_by`
