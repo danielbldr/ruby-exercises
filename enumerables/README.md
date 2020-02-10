@@ -50,7 +50,7 @@ You should perform the exercises in the order below:
 * `sort_by` - Completed 2/9/20
 * `count`- Completed
 * `reject` - Completed
-* `reduce`
+* `reduce` - Completed
 * `any?`
 * `all?`
 * `none?`
