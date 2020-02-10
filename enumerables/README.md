@@ -51,7 +51,7 @@ You should perform the exercises in the order below:
 * `count`- Completed
 * `reject` - Completed
 * `reduce` - Completed
-* `any?`
+* `any?` - Completed
 * `all?`
 * `none?`
 * `one?`
