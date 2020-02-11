@@ -53,7 +53,7 @@ You should perform the exercises in the order below:
 * `reduce` - Completed
 * `any?` - Completed
 * `all?` - Completed
-* `none?`
+* `none?`- Completed
 * `one?`
 * `group_by`
 * `zip`
