@@ -54,9 +54,9 @@ You should perform the exercises in the order below:
 * `any?` - Completed
 * `all?` - Completed
 * `none?`- Completed
-* `one?`
-* `group_by`
-* `zip`
+* `one?` - Completed
+* `group_by` - Completed
+* `zip` - Completed
 
 You should perform the pattern test first, and then the test.
 
